@@ -1,0 +1,15 @@
+{
+  "short_name": "Puntos de Vista",
+  "name": "Puntos de Vista - Jorge Vivas",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
